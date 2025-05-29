@@ -1,0 +1,286 @@
+entities:
+  - Name: Block
+    Guid: 6799901028665546961
+    Transform:
+      Translation:
+        - -5.1862793
+        - 15.155866
+        - 2.0295873
+      Rotation:
+        - 0
+        - 0
+        - 0
+      Scale:
+        - 1
+        - 1
+        - 1
+    Mesh:
+      Visible: true
+      MeshHandle: 2000
+      MaterialHandle: 11461237389569734876
+    Children: ~
+  - Name: Start Platform
+    Guid: 16449585377308119751
+    Transform:
+      Translation:
+        - 0
+        - 0
+        - 0
+      Rotation:
+        - 0
+        - 0
+        - 0
+      Scale:
+        - 1
+        - 1
+        - 1
+    Children:
+      - Name: Pillar-1
+        Guid: 17414908040491320739
+        Transform:
+          Translation:
+            - -10
+            - 5
+            - -10
+          Rotation:
+            - 0
+            - -0
+            - 0
+          Scale:
+            - 1
+            - 5
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 2004
+          MaterialHandle: 9800336681453753160
+        Children: ~
+      - Name: Pillar-4
+        Guid: 7844707429249994012
+        Transform:
+          Translation:
+            - 10
+            - 5
+            - -10
+          Rotation:
+            - 0
+            - -0
+            - 0
+          Scale:
+            - 1
+            - 5
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 2004
+          MaterialHandle: 9800336681453753160
+        Children: ~
+      - Name: Pillar-3
+        Guid: 856545330329342085
+        Transform:
+          Translation:
+            - 10
+            - 5
+            - 10
+          Rotation:
+            - 0
+            - -0
+            - 0
+          Scale:
+            - 1
+            - 5
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 2004
+          MaterialHandle: 9800336681453753160
+        Children: ~
+      - Name: Pillar-2
+        Guid: 2334096741748721425
+        Transform:
+          Translation:
+            - -10
+            - 5
+            - 10
+          Rotation:
+            - 0
+            - -0
+            - 0
+          Scale:
+            - 1
+            - 5
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 2004
+          MaterialHandle: 9800336681453753160
+        Children: ~
+      - Name: Ground
+        Guid: 7658675077513360637
+        Transform:
+          Translation:
+            - 0
+            - -1.0171928
+            - 0
+          Rotation:
+            - 0
+            - -0
+            - 0
+          Scale:
+            - 500
+            - 1
+            - 500
+        Mesh:
+          Visible: true
+          MeshHandle: 2000
+          MaterialHandle: 11461237389569734876
+        RigidBody:
+          Mass: 1
+          BodyType: 1
+        BoxCollider:
+          Trigger: false
+          Offset:
+            - 0
+            - 0
+            - 0
+          Extent:
+            - 12.5
+            - 1
+            - 12.5
+        Children: ~
+  - Name: BottomPlane
+    Guid: 9056585039423251880
+    Transform:
+      Translation:
+        - 0
+        - 0
+        - 0
+      Rotation:
+        - 0
+        - 0
+        - 0
+      Scale:
+        - 1
+        - 1
+        - 1
+    PlaneCollider:
+      Trigger: false
+    Children: ~
+  - Name: FlashLight
+    Guid: 1105499793756095372
+    Transform:
+      Translation:
+        - -8.324593
+        - 3.8675492
+        - -5.646736
+      Rotation:
+        - -66.75704
+        - -0
+        - 0
+      Scale:
+        - 1
+        - 0.9999998
+        - 0.9999998
+    Children: ~
+  - Name: Player
+    Guid: 15407972250869747443
+    Transform:
+      Translation:
+        - 0
+        - 5.897709
+        - 0.37376523
+      Rotation:
+        - 0
+        - -0
+        - 0
+      Scale:
+        - 1
+        - 1
+        - 1
+    Camera:
+      Active: true
+      NearPlane: 1
+      FarPlane: 1000
+      FOV: 70
+      Yaw: 0
+      Pitch: 0
+      WorldUp:
+        - 0
+        - 1
+        - 0
+      Position:
+        - 0
+        - 0
+        - 0
+    Mesh:
+      Visible: true
+      MeshHandle: 2007
+      MaterialHandle: 14995452591673922826
+    PointLight:
+      Active: true
+      Color:
+        - 1
+        - 1
+        - 1
+      Radiance: 1
+    Script:
+      ScriptName: PlayerController
+      Fields:
+        - Name: Count
+          Type: 1
+          Value: 0
+        - Name: Force
+          Type: 2
+          Value: 5
+        - Name: Gravity
+          Type: 6
+          Value:
+            - 0
+            - -10
+            - 0
+    RigidBody:
+      Mass: 1
+      BodyType: 0
+    CapsuleCollider:
+      Trigger: false
+      Offset:
+        - 0
+        - 0
+        - 0
+      Radius: 1
+      HalfHeight: 1
+    RigidBodyConstraint:
+      LockTranslationX: false
+      LockTranslationY: false
+      LockTranslationZ: false
+      LockRotationX: true
+      LockRotationY: false
+      LockRotationZ: true
+    Children: ~
+  - Name: Environment
+    Guid: 17359977301449205199
+    Transform:
+      Translation:
+        - 0
+        - 0
+        - 0
+      Rotation:
+        - -25.63
+        - -2.387898e-06
+        - 3.9999824
+      Scale:
+        - 1
+        - 0.9999976
+        - 0.9999953
+    EnvironmentMap:
+      Active: true
+      Radiance: 1
+      EnvironmentMapHandle: 9297109503526674531
+    DirectionalLight:
+      Active: true
+      Color:
+        - 1
+        - 1
+        - 1
+      Intensity: 23
+    Children: ~

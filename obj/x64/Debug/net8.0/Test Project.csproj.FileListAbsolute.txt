@@ -1,0 +1,4 @@
+C:\Development\Mule Projects\Test Project\obj\x64\Debug\net8.0\Test Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Mule Projects\Test Project\obj\x64\Debug\net8.0\Test Project.AssemblyInfoInputs.cache
+C:\Development\Mule Projects\Test Project\obj\x64\Debug\net8.0\Test Project.AssemblyInfo.cs
+C:\Development\Mule Projects\Test Project\obj\x64\Debug\net8.0\Test Project.csproj.CoreCompileInputs.cache

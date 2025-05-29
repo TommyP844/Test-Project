@@ -1,0 +1,11 @@
+Meshes:
+  BoomBox: 9850413745844178261
+Materials:
+  BoomBox_Mat: 1384368859667400949
+Textures:
+  BoomBox_baseColor.png: 14842189745945695628
+  BoomBox_normal.png: 9949080327844320385
+  BoomBox-Texture.000: 5830159145875101225
+  BoomBox-Texture.001: 10971665986729195267
+  BoomBox_occlusionRoughnessMetallic.png: 4442258845070457412
+  BoomBox_emissive.png: 17781328420134246416

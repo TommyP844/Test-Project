@@ -1,0 +1,405 @@
+entities:
+  - Name: Player
+    Guid: 1496513875321382227
+    Transform:
+      Translation:
+        - 55.294342
+        - 16.472347
+        - -1.792407
+      Rotation:
+        - 0
+        - -0
+        - 0
+      Scale:
+        - 1
+        - 1
+        - 1
+    Camera:
+      Active: true
+      NearPlane: 1
+      FarPlane: 1000
+      FOV: 81.53
+      Yaw: 0
+      Pitch: 0
+      WorldUp:
+        - 0
+        - 1
+        - 0
+      Position:
+        - 26.99921
+        - 5.999775
+        - -35.917908
+    RigidBody3D:
+      Mass: 1
+      BodyType: 0
+    BoxCollider:
+      Trigger: false
+      Offset:
+        - 0
+        - 0
+        - 0
+      Extent:
+        - 3
+        - 5
+        - 3
+    Children: ~
+  - Name: Environment
+    Guid: 9889881367790937837
+    Transform:
+      Translation:
+        - 0
+        - 0
+        - 0
+      Rotation:
+        - 0
+        - 0
+        - 0
+      Scale:
+        - 1
+        - 1
+        - 1
+    EnvironmentMap:
+      Active: true
+      Radiance: 0
+      EnvironmentMapHandle: 14576801618740772545
+    DirectionalLight:
+      Active: true
+      Color:
+        - 1
+        - 1
+        - 1
+      Intensity: 1
+    Children: ~
+  - Name: Level
+    Guid: 10818450336323878189
+    Transform:
+      Translation:
+        - 0
+        - 0
+        - 0
+      Rotation:
+        - 0
+        - 0
+        - 0
+      Scale:
+        - 1
+        - 1
+        - 1
+    Children:
+      - Name: Floor
+        Guid: 13249646671874242192
+        Transform:
+          Translation:
+            - 63.67516
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - -0
+            - 0
+          Scale:
+            - 50
+            - 1
+            - 50
+        Mesh:
+          Visible: true
+          MeshHandle: 2000
+          MaterialHandle: 4565814105733805653
+        RigidBody3D:
+          Mass: 1
+          BodyType: 1
+        BoxCollider:
+          Trigger: false
+          Offset:
+            - 0
+            - 0
+            - 0
+          Extent:
+            - 50
+            - 1
+            - 50
+        Children: ~
+      - Name: Wall-1
+        Guid: 353473202204512808
+        Transform:
+          Translation:
+            - 112.20874
+            - 10
+            - 0
+          Rotation:
+            - 0
+            - -0
+            - 0
+          Scale:
+            - 2
+            - 10
+            - 50
+        Mesh:
+          Visible: true
+          MeshHandle: 2000
+          MaterialHandle: 3941207599468771766
+        RigidBody3D:
+          Mass: 1
+          BodyType: 1
+        BoxCollider:
+          Trigger: false
+          Offset:
+            - 0
+            - 0
+            - 0
+          Extent:
+            - 2
+            - 10
+            - 50
+        Children: ~
+      - Name: Wall-2
+        Guid: 4242254059701234562
+        Transform:
+          Translation:
+            - 12.20874
+            - 10
+            - 0
+          Rotation:
+            - 0
+            - -0
+            - 0
+          Scale:
+            - 2
+            - 10
+            - 50
+        Mesh:
+          Visible: true
+          MeshHandle: 2000
+          MaterialHandle: 3941207599468771766
+        RigidBody3D:
+          Mass: 1
+          BodyType: 1
+        BoxCollider:
+          Trigger: false
+          Offset:
+            - 0
+            - 0
+            - 0
+          Extent:
+            - 2
+            - 10
+            - 50
+        Children: ~
+      - Name: Wall-3
+        Guid: 43196543829703196
+        Transform:
+          Translation:
+            - 62.20874
+            - 10
+            - 50
+          Rotation:
+            - 0
+            - 89.99998
+            - 0
+          Scale:
+            - 1.9999996
+            - 10
+            - 49.99999
+        Mesh:
+          Visible: true
+          MeshHandle: 2000
+          MaterialHandle: 3941207599468771766
+        RigidBody3D:
+          Mass: 1
+          BodyType: 1
+        BoxCollider:
+          Trigger: false
+          Offset:
+            - 0
+            - 0
+            - 0
+          Extent:
+            - 2
+            - 10
+            - 50
+        Children: ~
+      - Name: Wall-4
+        Guid: 13675864152160613398
+        Transform:
+          Translation:
+            - 62.20874
+            - 10
+            - -50
+          Rotation:
+            - 0
+            - 89.99998
+            - 0
+          Scale:
+            - 1.9999996
+            - 10
+            - 49.99999
+        Mesh:
+          Visible: true
+          MeshHandle: 2000
+          MaterialHandle: 3941207599468771766
+        RigidBody3D:
+          Mass: 1
+          BodyType: 1
+        BoxCollider:
+          Trigger: false
+          Offset:
+            - 0
+            - 0
+            - 0
+          Extent:
+            - 2
+            - 10
+            - 50
+        Children: ~
+      - Name: Slope-1
+        Guid: 4696020182577238917
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Children:
+          - Name: Entity
+            Guid: 10266753918066449273
+            Transform:
+              Translation:
+                - 63.93445
+                - 6.83
+                - 44.34
+              Rotation:
+                - 0
+                - -0
+                - 0
+              Scale:
+                - 20
+                - 5
+                - 5
+            Mesh:
+              Visible: true
+              MeshHandle: 2000
+              MaterialHandle: 9644169367250990618
+            Children: ~
+          - Name: Step
+            Guid: 16742812710824489680
+            Transform:
+              Translation:
+                - 88.9019
+                - 6.8318634
+                - 44.335316
+              Rotation:
+                - 0
+                - -0
+                - 0
+              Scale:
+                - 5
+                - 5
+                - 5
+            Mesh:
+              Visible: true
+              MeshHandle: 2005
+              MaterialHandle: 9644169367250990618
+            Children: ~
+          - Name: Step-1
+            Guid: 7718764968066713162
+            Transform:
+              Translation:
+                - 38.9019
+                - 6.8318634
+                - 44.335316
+              Rotation:
+                - -179.99948
+                - -0
+                - -179.9999
+              Scale:
+                - 5.0000043
+                - 5
+                - 5.0000043
+            Mesh:
+              Visible: true
+              MeshHandle: 2005
+              MaterialHandle: 9644169367250990618
+            Children: ~
+      - Name: Slope-2
+        Guid: 2990495290748722150
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - -87.7038
+          Rotation:
+            - 0
+            - -0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Children:
+          - Name: Entity-Copy
+            Guid: 15911805883906276950
+            Transform:
+              Translation:
+                - 63.93445
+                - 6.83
+                - 44.34
+              Rotation:
+                - 0
+                - -0
+                - 0
+              Scale:
+                - 20
+                - 5
+                - 5
+            Mesh:
+              Visible: true
+              MeshHandle: 2000
+              MaterialHandle: 9644169367250990618
+            Children: ~
+          - Name: Step-Copy
+            Guid: 7533418176945763511
+            Transform:
+              Translation:
+                - 88.9019
+                - 6.8318634
+                - 44.335316
+              Rotation:
+                - 0
+                - -0
+                - 0
+              Scale:
+                - 5
+                - 5
+                - 5
+            Mesh:
+              Visible: true
+              MeshHandle: 2005
+              MaterialHandle: 9644169367250990618
+            Children: ~
+          - Name: Step-1-Copy
+            Guid: 15581249533186546057
+            Transform:
+              Translation:
+                - 38.9019
+                - 6.8318634
+                - 44.335316
+              Rotation:
+                - -179.99948
+                - -0
+                - -179.9999
+              Scale:
+                - 5.0000043
+                - 5
+                - 5.0000043
+            Mesh:
+              Visible: true
+              MeshHandle: 2005
+              MaterialHandle: 9644169367250990618
+            Children: ~

@@ -1,0 +1,20 @@
+AlbedoColor:
+  - 1
+  - 0
+  - 0
+  - 1
+AlbedoMap: 0
+NormalMap: 0
+RoughnessMap: 0
+MetalnessMap: 0
+AOMap: 0
+EmissiveMap: 0
+OpacityMap: 0
+TextureScale:
+  - 1
+  - 1
+Transparent: false
+Transparency: 1
+MetalnessFactor: 0.34
+RoughnessFactor: 0.33
+AOFactor: 1

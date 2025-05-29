@@ -1,0 +1,47 @@
+Theme: 8980808249160589166
+Elements:
+  - Name: UI Text
+    Handle: 14007591911974586588
+    Type: UIText
+    Transform:
+      Left:
+        Value: 300
+        Type: Pixels
+      Top:
+        Value: 233
+        Type: Pixels
+      Bottom:
+        Value: 281
+        Type: Pixels
+      Right:
+        Value: 567
+        Type: Pixels
+      Width:
+        Value: 64.40625
+        Type: Auto
+      Height:
+        Value: 22.75
+        Type: Auto
+    Visible: true
+    Text: Sample
+  - Name: UI Text
+    Handle: 719147666617669207
+    Type: UIText
+    Transform:
+      Left:
+        Value: 232
+        Type: Pixels
+      Top:
+        Value: 362
+        Type: Pixels
+      Right:
+        Value: 833.59375
+        Type: Pixels
+      Width:
+        Value: 195.25
+        Type: Auto
+      Height:
+        Value: 22.75
+        Type: Auto
+    Visible: true
+    Text: This is a sample text

@@ -1,0 +1,2104 @@
+entities:
+  - Name: Entity
+    Guid: 5738497574649286727
+    Transform:
+      Translation:
+        - 0
+        - 0
+        - 0
+      Rotation:
+        - 0
+        - 0
+        - 0
+      Scale:
+        - 1
+        - 1
+        - 1
+    Children:
+      - Name: meshes[0]-0
+        Guid: 5419519392476385914
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 17624459508877457430
+          MaterialHandle: 11806082153522479766
+        Children: ~
+      - Name: meshes[0]-1
+        Guid: 8508500801505530715
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 5568338231309175211
+          MaterialHandle: 2246008631415162244
+        Children: ~
+      - Name: meshes[0]-2
+        Guid: 18077361592922662680
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 12393090977071181424
+          MaterialHandle: 10115591803238921042
+        Children: ~
+      - Name: meshes[0]-3
+        Guid: 13109339982931506209
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 3842900296467324601
+          MaterialHandle: 10923965241025853408
+        Children: ~
+      - Name: meshes[0]-4
+        Guid: 3771506135491546087
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 6235067495857172409
+          MaterialHandle: 6630809754088445776
+        Children: ~
+      - Name: meshes[0]-5
+        Guid: 20843191343734153
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 6850296875742270224
+          MaterialHandle: 9446713836771160235
+        Children: ~
+      - Name: meshes[0]-6
+        Guid: 7648626122670719238
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 6896364510654596829
+          MaterialHandle: 6446574162398874909
+        Children: ~
+      - Name: meshes[0]-7
+        Guid: 9821625505474102316
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 13417503320754135370
+          MaterialHandle: 5075954846263361429
+        Children: ~
+      - Name: meshes[0]-8
+        Guid: 10057805244237002077
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 1578411288322212011
+          MaterialHandle: 12325317977040731669
+        Children: ~
+      - Name: meshes[0]-9
+        Guid: 2299066769953813348
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 8467464092348609256
+          MaterialHandle: 15844018556870445019
+        Children: ~
+      - Name: meshes[0]-10
+        Guid: 17764336421663318542
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 15678750745843001757
+          MaterialHandle: 17497986186668572611
+        Children: ~
+      - Name: meshes[0]-11
+        Guid: 13028307939973332662
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 9127234033371396617
+          MaterialHandle: 18248898925769453544
+        Children: ~
+      - Name: meshes[0]-12
+        Guid: 12890707795564014057
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 5205705820329567770
+          MaterialHandle: 13969000736638787712
+        Children: ~
+      - Name: meshes[0]-13
+        Guid: 11332719355646354784
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 13329540369998044558
+          MaterialHandle: 10211925364167237770
+        Children: ~
+      - Name: meshes[0]-14
+        Guid: 8114728911152784077
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 17015592207044118939
+          MaterialHandle: 12857050044687366663
+        Children: ~
+      - Name: meshes[0]-15
+        Guid: 2792914501090611198
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 3494837395015248010
+          MaterialHandle: 933632380498921977
+        Children: ~
+      - Name: meshes[0]-16
+        Guid: 1746267763039567952
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 3498020088235278046
+          MaterialHandle: 1402046469599874063
+        Children: ~
+      - Name: meshes[0]-17
+        Guid: 16430499326854314470
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 13069178140033024102
+          MaterialHandle: 11344164165016858099
+        Children: ~
+      - Name: meshes[0]-18
+        Guid: 8237679505793920917
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 1934144460480259150
+          MaterialHandle: 8992262400543630710
+        Children: ~
+      - Name: meshes[0]-19
+        Guid: 338886056882326814
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 13663327391390180052
+          MaterialHandle: 12024529730813444648
+        Children: ~
+      - Name: meshes[0]-20
+        Guid: 6923565645484329396
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 5427546298978405633
+          MaterialHandle: 2776486739594654697
+        Children: ~
+      - Name: meshes[0]-21
+        Guid: 15530287889371672954
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 1846222775704443835
+          MaterialHandle: 15467815605965888095
+        Children: ~
+      - Name: meshes[0]-22
+        Guid: 14578634092862979755
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 11597356949383944570
+          MaterialHandle: 2328924719297052890
+        Children: ~
+      - Name: meshes[0]-23
+        Guid: 8056755253344220160
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 4265690958409747421
+          MaterialHandle: 18052349258513135411
+        Children: ~
+      - Name: meshes[0]-24
+        Guid: 10795103859225961631
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 6697718390458087951
+          MaterialHandle: 5040731143533083466
+        Children: ~
+      - Name: meshes[0]-25
+        Guid: 16161924104651044967
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 16063144323826330185
+          MaterialHandle: 17747633863623066594
+        Children: ~
+      - Name: meshes[0]-26
+        Guid: 15750446680638858993
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 5929891751925659535
+          MaterialHandle: 16100596270048694586
+        Children: ~
+      - Name: meshes[0]-27
+        Guid: 5234714321344110092
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 1976379759331479500
+          MaterialHandle: 16411748264383948545
+        Children: ~
+      - Name: meshes[0]-28
+        Guid: 16665691172271634137
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 9416630290476830050
+          MaterialHandle: 10691360018701207100
+        Children: ~
+      - Name: meshes[0]-29
+        Guid: 14931432676472818314
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 247499118265614684
+          MaterialHandle: 5518226419499460778
+        Children: ~
+      - Name: meshes[0]-30
+        Guid: 16308454387237310654
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 8813579283676911062
+          MaterialHandle: 12386244884298435122
+        Children: ~
+      - Name: meshes[0]-31
+        Guid: 15931104576509398399
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 13558882514877896566
+          MaterialHandle: 1125748621121645993
+        Children: ~
+      - Name: meshes[0]-32
+        Guid: 12242443505457975699
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 14429805291155873907
+          MaterialHandle: 17193898719298140525
+        Children: ~
+      - Name: meshes[0]-33
+        Guid: 6015361991424411766
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 5436288811140054769
+          MaterialHandle: 945364354980687170
+        Children: ~
+      - Name: meshes[0]-34
+        Guid: 3915773469243879069
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 13766926428658188941
+          MaterialHandle: 14909591280368201951
+        Children: ~
+      - Name: meshes[0]-35
+        Guid: 2262047150935909928
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 1528578815392948963
+          MaterialHandle: 10529995224417446398
+        Children: ~
+      - Name: meshes[0]-36
+        Guid: 11700127334621444592
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 15643607577042608694
+          MaterialHandle: 6510326240431633588
+        Children: ~
+      - Name: meshes[0]-37
+        Guid: 5644860804463739964
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 12608955504441925678
+          MaterialHandle: 6932989060599714873
+        Children: ~
+      - Name: meshes[0]-38
+        Guid: 3883347459347401490
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 14322493076105481982
+          MaterialHandle: 18026624722698030233
+        Children: ~
+      - Name: meshes[0]-39
+        Guid: 12514495239656357177
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 15254104251132089773
+          MaterialHandle: 4947183174786774079
+        Children: ~
+      - Name: meshes[0]-40
+        Guid: 6989395243510172857
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 9546220023926647808
+          MaterialHandle: 12140081865870190156
+        Children: ~
+      - Name: meshes[0]-41
+        Guid: 17084099489660982856
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 186572076858735
+          MaterialHandle: 8195390359366598818
+        Children: ~
+      - Name: meshes[0]-42
+        Guid: 9943590965697624205
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 18130886392542962224
+          MaterialHandle: 6112269726936457067
+        Children: ~
+      - Name: meshes[0]-43
+        Guid: 5094569046013635722
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 17934256487481811109
+          MaterialHandle: 17869328590846738830
+        Children: ~
+      - Name: meshes[0]-44
+        Guid: 7271063302369390991
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 15642523086418376205
+          MaterialHandle: 5842999293056472214
+        Children: ~
+      - Name: meshes[0]-45
+        Guid: 1511693566908930772
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 2009232586879766778
+          MaterialHandle: 16757167216850083047
+        Children: ~
+      - Name: meshes[0]-46
+        Guid: 10465773354931828686
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 16949114693117764214
+          MaterialHandle: 12821125459463406615
+        Children: ~
+      - Name: meshes[0]-47
+        Guid: 16045985889456328572
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 9915597667373526829
+          MaterialHandle: 5003493613367695659
+        Children: ~
+      - Name: meshes[0]-48
+        Guid: 16458476461103000818
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 9426805740092899080
+          MaterialHandle: 10680021023100651069
+        Children: ~
+      - Name: meshes[0]-49
+        Guid: 8270197212364795909
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 2734111747181640544
+          MaterialHandle: 6188941729085394980
+        Children: ~
+      - Name: meshes[0]-50
+        Guid: 16967748194293511173
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 1294798242905053201
+          MaterialHandle: 9020568263249804236
+        Children: ~
+      - Name: meshes[0]-51
+        Guid: 4313533283831982922
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 8015949199166115223
+          MaterialHandle: 15627546521110861242
+        Children: ~
+      - Name: meshes[0]-52
+        Guid: 7638342463795783161
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 11921458347030871514
+          MaterialHandle: 12112383244321569373
+        Children: ~
+      - Name: meshes[0]-53
+        Guid: 12155446833794290756
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 2470677662937101687
+          MaterialHandle: 13220982814380692081
+        Children: ~
+      - Name: meshes[0]-54
+        Guid: 7253328119242244280
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 4010753962513256532
+          MaterialHandle: 6870776403306431755
+        Children: ~
+      - Name: meshes[0]-55
+        Guid: 10581126388609951048
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 15878628416532931627
+          MaterialHandle: 11114280490932791031
+        Children: ~
+      - Name: meshes[0]-56
+        Guid: 18396078652601722345
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 5686088995932739319
+          MaterialHandle: 16293378815941004456
+        Children: ~
+      - Name: meshes[0]-57
+        Guid: 2334352058118105852
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 3252936086966122158
+          MaterialHandle: 16708886142564820443
+        Children: ~
+      - Name: meshes[0]-58
+        Guid: 16559356557122798820
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 11004357362577839414
+          MaterialHandle: 12869870380129940127
+        Children: ~
+      - Name: meshes[0]-59
+        Guid: 9063767189269778773
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 12365202551505710190
+          MaterialHandle: 998864321107734810
+        Children: ~
+      - Name: meshes[0]-60
+        Guid: 4683010843105716766
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 3318262346689397311
+          MaterialHandle: 4907198233781007034
+        Children: ~
+      - Name: meshes[0]-61
+        Guid: 7452860500258545703
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 5879018184981402216
+          MaterialHandle: 4717282335799328846
+        Children: ~
+      - Name: meshes[0]-62
+        Guid: 17888611830821681512
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 10348764900518291360
+          MaterialHandle: 16577881450627167527
+        Children: ~
+      - Name: meshes[0]-63
+        Guid: 16726330406572797882
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 13007585990456223825
+          MaterialHandle: 18382608759927544173
+        Children: ~
+      - Name: meshes[0]-64
+        Guid: 18367347623665123636
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 3421212713564111034
+          MaterialHandle: 538489036683425809
+        Children: ~
+      - Name: meshes[0]-65
+        Guid: 5809871420284798133
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 12777584202866405132
+          MaterialHandle: 1344891267148915074
+        Children: ~
+      - Name: meshes[0]-66
+        Guid: 7823410866123529611
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 1172349720481517504
+          MaterialHandle: 5313034595044144436
+        Children: ~
+      - Name: meshes[0]-67
+        Guid: 9809299383750037482
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 15604392318291528579
+          MaterialHandle: 9545053210511340982
+        Children: ~
+      - Name: meshes[0]-68
+        Guid: 2673879707568580338
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 14540244373162087912
+          MaterialHandle: 1288403334152937087
+        Children: ~
+      - Name: meshes[0]-69
+        Guid: 4046218440099860036
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 4592125285421926375
+          MaterialHandle: 5008259842779240158
+        Children: ~
+      - Name: meshes[0]-70
+        Guid: 9509605861606460630
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 4838680163084470313
+          MaterialHandle: 15763009034497469358
+        Children: ~
+      - Name: meshes[0]-71
+        Guid: 13224016763798687204
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 10335767332625476150
+          MaterialHandle: 1406337271317160152
+        Children: ~
+      - Name: meshes[0]-72
+        Guid: 4424844030738936109
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 5514740631651870692
+          MaterialHandle: 10323773475584054776
+        Children: ~
+      - Name: meshes[0]-73
+        Guid: 3016724871767961949
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 17414015813601153953
+          MaterialHandle: 17817249524855039485
+        Children: ~
+      - Name: meshes[0]-74
+        Guid: 8611461144225452086
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 2987895886753338162
+          MaterialHandle: 6723885383556659448
+        Children: ~
+      - Name: meshes[0]-75
+        Guid: 4320808936754877322
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 16250713769888620797
+          MaterialHandle: 7166004017020715075
+        Children: ~
+      - Name: meshes[0]-76
+        Guid: 11723289631396683590
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 16204201675790655250
+          MaterialHandle: 13085581834627458826
+        Children: ~
+      - Name: meshes[0]-77
+        Guid: 3864065080516709904
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 13797116332211268479
+          MaterialHandle: 2054847072481938871
+        Children: ~
+      - Name: meshes[0]-78
+        Guid: 16757887059146643405
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 16545516203728885642
+          MaterialHandle: 14880363755514475825
+        Children: ~
+      - Name: meshes[0]-79
+        Guid: 11825615192600563717
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 1305866479999406545
+          MaterialHandle: 12883658011150657354
+        Children: ~
+      - Name: meshes[0]-80
+        Guid: 10664382253259894519
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 719319223024679574
+          MaterialHandle: 8010611495744814389
+        Children: ~
+      - Name: meshes[0]-81
+        Guid: 3654535636120624130
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 10733536602986173846
+          MaterialHandle: 17160388656315348029
+        Children: ~
+      - Name: meshes[0]-82
+        Guid: 17621764476139072189
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 6499331315372323972
+          MaterialHandle: 10476278252593239001
+        Children: ~
+      - Name: meshes[0]-83
+        Guid: 8420601198868680189
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 14747595490661384418
+          MaterialHandle: 17093704941636609815
+        Children: ~
+      - Name: meshes[0]-84
+        Guid: 17369547309755771489
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 5973157490830202413
+          MaterialHandle: 4381100499709537664
+        Children: ~
+      - Name: meshes[0]-85
+        Guid: 17685222979618173371
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 9939539796206071220
+          MaterialHandle: 16017869825195843342
+        Children: ~
+      - Name: meshes[0]-86
+        Guid: 8894521536649630947
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 13604043736159557003
+          MaterialHandle: 18364176439330413502
+        Children: ~
+      - Name: meshes[0]-87
+        Guid: 4041336387661696580
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 1379942118245708472
+          MaterialHandle: 3826857888301480569
+        Children: ~
+      - Name: meshes[0]-88
+        Guid: 16415730977170562809
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 738712042151973219
+          MaterialHandle: 16739604574717648671
+        Children: ~
+      - Name: meshes[0]-89
+        Guid: 5161159457016282708
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 17925154009205227658
+          MaterialHandle: 9263408139786480794
+        Children: ~
+      - Name: meshes[0]-90
+        Guid: 14736392374824415428
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 13968862311998817073
+          MaterialHandle: 2906903998991652514
+        Children: ~
+      - Name: meshes[0]-91
+        Guid: 12181597192034029230
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 12557963390438171692
+          MaterialHandle: 4820428151410300825
+        Children: ~
+      - Name: meshes[0]-92
+        Guid: 13816525191229865693
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 5042049569570409640
+          MaterialHandle: 17213011782283050340
+        Children: ~
+      - Name: meshes[0]-93
+        Guid: 15215518274304805140
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 16665754062372285921
+          MaterialHandle: 8973121579968911107
+        Children: ~
+      - Name: meshes[0]-94
+        Guid: 116466701153482953
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 3301566215715005642
+          MaterialHandle: 5666007743620520385
+        Children: ~
+      - Name: meshes[0]-95
+        Guid: 14149575666344290027
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 1193768864540211399
+          MaterialHandle: 7610595318377985155
+        Children: ~
+      - Name: meshes[0]-96
+        Guid: 8692233309306107199
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 9609252288205806838
+          MaterialHandle: 5228234371226112610
+        Children: ~
+      - Name: meshes[0]-97
+        Guid: 13913808253525036263
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 1644643683515714232
+          MaterialHandle: 9732440216668898042
+        Children: ~
+      - Name: meshes[0]-98
+        Guid: 11213436685616499970
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 4050666228952441158
+          MaterialHandle: 129915907191918833
+        Children: ~
+      - Name: meshes[0]-99
+        Guid: 14115219112809675748
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 13020062829704200306
+          MaterialHandle: 13221370549545762587
+        Children: ~
+      - Name: meshes[0]-100
+        Guid: 10006144396387765022
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 5170904822106555811
+          MaterialHandle: 10966324353156944506
+        Children: ~
+      - Name: meshes[0]-101
+        Guid: 2240130289533933897
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 13042548122590565073
+          MaterialHandle: 14551939430295834957
+        Children: ~
+      - Name: meshes[0]-102
+        Guid: 9095982134631954531
+        Transform:
+          Translation:
+            - 0
+            - 0
+            - 0
+          Rotation:
+            - 0
+            - 0
+            - 0
+          Scale:
+            - 1
+            - 1
+            - 1
+        Mesh:
+          Visible: true
+          MeshHandle: 11621594137575439713
+          MaterialHandle: 1330039461791816577
+        Children: ~
+  - Name: Environment
+    Guid: 1096836973472542784
+    Transform:
+      Translation:
+        - 0
+        - 0
+        - 0
+      Rotation:
+        - 0
+        - 0
+        - 0
+      Scale:
+        - 1
+        - 1
+        - 1
+    EnvironmentMap:
+      Active: true
+      Radiance: 22
+      EnvironmentMapHandle: 9297109503526674531
+    DirectionalLight:
+      Active: true
+      Color:
+        - 1
+        - 1
+        - 1
+      Intensity: 1
+    Children: ~

@@ -1,0 +1,696 @@
+TextStyle:
+  Idle:
+    BackgroundColor:
+      Color:
+        - 0
+        - 0.27058825
+        - 1
+        - 0.34117648
+    Padding:
+      Left:
+        Value: 5
+        Type: Pixels
+      Right:
+        Value: 5
+        Type: Pixels
+      Top:
+        Value: 2
+        Type: Pixels
+      Bottom:
+        Value: 2
+        Type: Pixels
+    Border:
+      Thickness:
+        Value: 2
+        Type: Pixels
+      Radius:
+        Value: 0
+        Type: Pixels
+      Color:
+        Color:
+          - 1
+          - 0
+          - 0
+          - 0.44705886
+    FontSize: 16
+    FontColor:
+      Color:
+        - 1
+        - 1
+        - 1
+        - 1
+    FontHandle: 3000
+  Hovered:
+    BackgroundColor:
+      Color:
+        - 0
+        - 0
+        - 0
+        - 0
+    Padding:
+      Left:
+        Value: 5
+        Type: Pixels
+      Right:
+        Value: 5
+        Type: Pixels
+      Top:
+        Value: 2
+        Type: Pixels
+      Bottom:
+        Value: 2
+        Type: Pixels
+    Border:
+      Thickness:
+        Value: 0
+        Type: Pixels
+      Radius:
+        Value: 0
+        Type: Pixels
+      Color:
+        Color:
+          - 0
+          - 0
+          - 0
+          - 0
+    FontSize: 16
+    FontColor:
+      Color:
+        - 1
+        - 1
+        - 1
+        - 1
+    FontHandle: 3000
+  Pressed:
+    BackgroundColor:
+      Color:
+        - 0
+        - 0
+        - 0
+        - 0
+    Padding:
+      Left:
+        Value: 5
+        Type: Pixels
+      Right:
+        Value: 5
+        Type: Pixels
+      Top:
+        Value: 2
+        Type: Pixels
+      Bottom:
+        Value: 2
+        Type: Pixels
+    Border:
+      Thickness:
+        Value: 0
+        Type: Pixels
+      Radius:
+        Value: 0
+        Type: Pixels
+      Color:
+        Color:
+          - 0
+          - 0
+          - 0
+          - 0
+    FontSize: 16
+    FontColor:
+      Color:
+        - 1
+        - 1
+        - 1
+        - 1
+    FontHandle: 3000
+  Focused:
+    BackgroundColor:
+      Color:
+        - 0
+        - 0
+        - 0
+        - 0
+    Padding:
+      Left:
+        Value: 5
+        Type: Pixels
+      Right:
+        Value: 5
+        Type: Pixels
+      Top:
+        Value: 2
+        Type: Pixels
+      Bottom:
+        Value: 2
+        Type: Pixels
+    Border:
+      Thickness:
+        Value: 0
+        Type: Pixels
+      Radius:
+        Value: 0
+        Type: Pixels
+      Color:
+        Color:
+          - 0
+          - 0
+          - 0
+          - 0
+    FontSize: 16
+    FontColor:
+      Color:
+        - 1
+        - 1
+        - 1
+        - 1
+    FontHandle: 3000
+  Disabled:
+    BackgroundColor:
+      Color:
+        - 0
+        - 0
+        - 0
+        - 0
+    Padding:
+      Left:
+        Value: 5
+        Type: Pixels
+      Right:
+        Value: 5
+        Type: Pixels
+      Top:
+        Value: 2
+        Type: Pixels
+      Bottom:
+        Value: 2
+        Type: Pixels
+    Border:
+      Thickness:
+        Value: 0
+        Type: Pixels
+      Radius:
+        Value: 0
+        Type: Pixels
+      Color:
+        Color:
+          - 0
+          - 0
+          - 0
+          - 0
+    FontSize: 16
+    FontColor:
+      Color:
+        - 0.5
+        - 0.5
+        - 0.5
+        - 1
+    FontHandle: 3000
+  Selected:
+    BackgroundColor:
+      Color:
+        - 0
+        - 0
+        - 0
+        - 0
+    Padding:
+      Left:
+        Value: 5
+        Type: Pixels
+      Right:
+        Value: 5
+        Type: Pixels
+      Top:
+        Value: 2
+        Type: Pixels
+      Bottom:
+        Value: 2
+        Type: Pixels
+    Border:
+      Thickness:
+        Value: 0
+        Type: Pixels
+      Radius:
+        Value: 0
+        Type: Pixels
+      Color:
+        Color:
+          - 0
+          - 0
+          - 0
+          - 0
+    FontSize: 16
+    FontColor:
+      Color:
+        - 1
+        - 1
+        - 1
+        - 1
+    FontHandle: 3000
+  "": ~
+ButtonStyle:
+  Idle:
+    BackgroundColor:
+      Color:
+        - 0.2
+        - 0.2
+        - 0.2
+        - 1
+    Padding:
+      Left:
+        Value: 10
+        Type: Pixels
+      Right:
+        Value: 10
+        Type: Pixels
+      Top:
+        Value: 5
+        Type: Pixels
+      Bottom:
+        Value: 5
+        Type: Pixels
+    Border:
+      Thickness:
+        Value: 1
+        Type: Pixels
+      Radius:
+        Value: 0
+        Type: Pixels
+      Color:
+        Color:
+          - 0.5
+          - 0.5
+          - 0.5
+          - 1
+  Hovered:
+    BackgroundColor:
+      Color:
+        - 0.3
+        - 0.3
+        - 0.3
+        - 1
+    Padding:
+      Left:
+        Value: 10
+        Type: Pixels
+      Right:
+        Value: 10
+        Type: Pixels
+      Top:
+        Value: 5
+        Type: Pixels
+      Bottom:
+        Value: 5
+        Type: Pixels
+    Border:
+      Thickness:
+        Value: 1
+        Type: Pixels
+      Radius:
+        Value: 0
+        Type: Pixels
+      Color:
+        Color:
+          - 0.5
+          - 0.5
+          - 0.5
+          - 1
+  Pressed:
+    BackgroundColor:
+      Color:
+        - 0.4
+        - 0.4
+        - 0.4
+        - 1
+    Padding:
+      Left:
+        Value: 10
+        Type: Pixels
+      Right:
+        Value: 10
+        Type: Pixels
+      Top:
+        Value: 5
+        Type: Pixels
+      Bottom:
+        Value: 5
+        Type: Pixels
+    Border:
+      Thickness:
+        Value: 1
+        Type: Pixels
+      Radius:
+        Value: 0
+        Type: Pixels
+      Color:
+        Color:
+          - 0.5
+          - 0.5
+          - 0.5
+          - 1
+  Focused:
+    BackgroundColor:
+      Color:
+        - 0.3
+        - 0.3
+        - 0.3
+        - 1
+    Padding:
+      Left:
+        Value: 10
+        Type: Pixels
+      Right:
+        Value: 10
+        Type: Pixels
+      Top:
+        Value: 5
+        Type: Pixels
+      Bottom:
+        Value: 5
+        Type: Pixels
+    Border:
+      Thickness:
+        Value: 1
+        Type: Pixels
+      Radius:
+        Value: 0
+        Type: Pixels
+      Color:
+        Color:
+          - 0.5
+          - 0.5
+          - 0.5
+          - 1
+  Disabled:
+    BackgroundColor:
+      Color:
+        - 0.1
+        - 0.1
+        - 0.1
+        - 1
+    Padding:
+      Left:
+        Value: 10
+        Type: Pixels
+      Right:
+        Value: 10
+        Type: Pixels
+      Top:
+        Value: 5
+        Type: Pixels
+      Bottom:
+        Value: 5
+        Type: Pixels
+    Border:
+      Thickness:
+        Value: 1
+        Type: Pixels
+      Radius:
+        Value: 0
+        Type: Pixels
+      Color:
+        Color:
+          - 0.5
+          - 0.5
+          - 0.5
+          - 1
+  Selected:
+    BackgroundColor:
+      Color:
+        - 0.3
+        - 0.3
+        - 0.3
+        - 1
+    Padding:
+      Left:
+        Value: 10
+        Type: Pixels
+      Right:
+        Value: 10
+        Type: Pixels
+      Top:
+        Value: 5
+        Type: Pixels
+      Bottom:
+        Value: 5
+        Type: Pixels
+    Border:
+      Thickness:
+        Value: 1
+        Type: Pixels
+      Radius:
+        Value: 0
+        Type: Pixels
+      Color:
+        Color:
+          - 0.5
+          - 0.5
+          - 0.5
+          - 1
+  "": ~
+  TextStyle:
+    Idle:
+      BackgroundColor:
+        Color:
+          - 0
+          - 0
+          - 0
+          - 0
+      Padding:
+        Left:
+          Value: 5
+          Type: Pixels
+        Right:
+          Value: 5
+          Type: Pixels
+        Top:
+          Value: 2
+          Type: Pixels
+        Bottom:
+          Value: 2
+          Type: Pixels
+      Border:
+        Thickness:
+          Value: 0
+          Type: Pixels
+        Radius:
+          Value: 0
+          Type: Pixels
+        Color:
+          Color:
+            - 0
+            - 0
+            - 0
+            - 0
+      FontSize: 16
+      FontColor:
+        Color:
+          - 1
+          - 1
+          - 1
+          - 1
+      FontHandle: 3000
+    Hovered:
+      BackgroundColor:
+        Color:
+          - 0
+          - 0
+          - 0
+          - 0
+      Padding:
+        Left:
+          Value: 5
+          Type: Pixels
+        Right:
+          Value: 5
+          Type: Pixels
+        Top:
+          Value: 2
+          Type: Pixels
+        Bottom:
+          Value: 2
+          Type: Pixels
+      Border:
+        Thickness:
+          Value: 0
+          Type: Pixels
+        Radius:
+          Value: 0
+          Type: Pixels
+        Color:
+          Color:
+            - 0
+            - 0
+            - 0
+            - 0
+      FontSize: 16
+      FontColor:
+        Color:
+          - 1
+          - 1
+          - 1
+          - 1
+      FontHandle: 3000
+    Pressed:
+      BackgroundColor:
+        Color:
+          - 0
+          - 0
+          - 0
+          - 0
+      Padding:
+        Left:
+          Value: 5
+          Type: Pixels
+        Right:
+          Value: 5
+          Type: Pixels
+        Top:
+          Value: 2
+          Type: Pixels
+        Bottom:
+          Value: 2
+          Type: Pixels
+      Border:
+        Thickness:
+          Value: 0
+          Type: Pixels
+        Radius:
+          Value: 0
+          Type: Pixels
+        Color:
+          Color:
+            - 0
+            - 0
+            - 0
+            - 0
+      FontSize: 16
+      FontColor:
+        Color:
+          - 1
+          - 1
+          - 1
+          - 1
+      FontHandle: 3000
+    Focused:
+      BackgroundColor:
+        Color:
+          - 0
+          - 0
+          - 0
+          - 0
+      Padding:
+        Left:
+          Value: 5
+          Type: Pixels
+        Right:
+          Value: 5
+          Type: Pixels
+        Top:
+          Value: 2
+          Type: Pixels
+        Bottom:
+          Value: 2
+          Type: Pixels
+      Border:
+        Thickness:
+          Value: 0
+          Type: Pixels
+        Radius:
+          Value: 0
+          Type: Pixels
+        Color:
+          Color:
+            - 0
+            - 0
+            - 0
+            - 0
+      FontSize: 16
+      FontColor:
+        Color:
+          - 1
+          - 1
+          - 1
+          - 1
+      FontHandle: 3000
+    Disabled:
+      BackgroundColor:
+        Color:
+          - 0
+          - 0
+          - 0
+          - 0
+      Padding:
+        Left:
+          Value: 5
+          Type: Pixels
+        Right:
+          Value: 5
+          Type: Pixels
+        Top:
+          Value: 2
+          Type: Pixels
+        Bottom:
+          Value: 2
+          Type: Pixels
+      Border:
+        Thickness:
+          Value: 0
+          Type: Pixels
+        Radius:
+          Value: 0
+          Type: Pixels
+        Color:
+          Color:
+            - 0
+            - 0
+            - 0
+            - 0
+      FontSize: 16
+      FontColor:
+        Color:
+          - 0.5
+          - 0.5
+          - 0.5
+          - 1
+      FontHandle: 3000
+    Selected:
+      BackgroundColor:
+        Color:
+          - 0
+          - 0
+          - 0
+          - 0
+      Padding:
+        Left:
+          Value: 5
+          Type: Pixels
+        Right:
+          Value: 5
+          Type: Pixels
+        Top:
+          Value: 2
+          Type: Pixels
+        Bottom:
+          Value: 2
+          Type: Pixels
+      Border:
+        Thickness:
+          Value: 0
+          Type: Pixels
+        Radius:
+          Value: 0
+          Type: Pixels
+        Color:
+          Color:
+            - 0
+            - 0
+            - 0
+            - 0
+      FontSize: 16
+      FontColor:
+        Color:
+          - 1
+          - 1
+          - 1
+          - 1
+      FontHandle: 3000
+    "": ~

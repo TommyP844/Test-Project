@@ -1,0 +1,13 @@
+CubeMap:
+  Format: RGBA_16F
+  AxisSize: 1024
+  Handle: 15720179743310351675
+DiffuseIBL:
+  Format: RGBA_16F
+  AxisSize: 1024
+  Handle: 14147759459145783554
+PreFilterMap:
+  Format: RGBA_16F
+  AxisSize: 1024
+  MipLevels: 11
+  Handle: 16267977118581146553
